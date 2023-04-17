@@ -1,0 +1,70 @@
+ 1  sudo nano /etc/dedault/grub
+    2  sudo nano /etc/default/grub
+    3  sudo update-grub
+    4  exit
+    5  py --version
+    6  python3 --version
+    7  git --version
+    8  sudo apt install git
+    9  GIT --VERSION
+   10  git --version
+   11  sudo install sublime text
+   12  sudo install sublimetext
+   13  CLEAR
+   14  clear
+   15  sudo su
+   16  sudo apt-get install git 
+   17  git config --global user.name "GeraldJT"
+   18  git config --global user.email "geraldjt.8@gmail.com"
+   19  ls
+   20  cd
+   21  yls
+   22  ls
+   23  cd entornos-aa2023
+   24  cd
+   25  cd escritorio
+   26  cd Escritorio/
+   27  mkdir ejercicios
+   28  cd ejercicios/
+   29  source /home/salab/entornos-aa2023/entorno01/bin/activate
+   30  deactivate 
+   31  source ~/entornos-aa2023/entorno01/bin/activate
+   32  jupyter-book create libro002
+   33  jupyter-book build libro002
+   34  ls
+   35  jupyter-book build libro001
+   36  cd libro001
+   37  git add .
+   38  git commit -m"Cambios"
+   39  git push 
+   40  jupyter-book build libro001
+   41  cd ..
+   42  jupyter-book build libro001
+   43  git add .
+   44  ls libro001
+   45  git add .
+   46  cd libro001
+   47  git add .
+   48  git commit -m"Cambio"
+   49  git push
+   50  cd
+   51  ls
+   52  cd Escritorio/ejercicios/
+   53  jupyter-book build libro001
+   54  git add .
+   55  cd libro001
+   56  git add .
+   57  git commit -m"Cambio"
+   58  git push
+   59  git add .
+   60  git commit -m"Cambio"
+   61  git push
+   62  cd .
+   63  cd ..
+   64  jupyter-book build libro001
+   65  git add .
+   66  cd libro001
+   67  git add .
+   68  git commit -m"Cambio1"
+   69  git push
+   70  history
